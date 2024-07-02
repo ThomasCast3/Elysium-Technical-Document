@@ -11,6 +11,26 @@ sidebar_position: 1
     In the project we decided to use camelcase for folder names, file names and variables. Except that folders will start with an uppercase letter while files and variables with a lowercase one.
 </div>
 
+## Architecture
+
+### Front
+
+<div>
+    We chose to use an MVC architecture and we therefore divided the front into three large files:
+        - component (for the modes)
+        - screen (for the view) 
+        - services (for the controller)
+</div>
+
+### Back
+
+<div>
+    Likewise for the back, we therefore have:
+        - model (for the data structure) 
+        - routes (for rendering views) 
+        - controller (to retrieve or create data)
+</div>
+
 ## Github
 
 <div>

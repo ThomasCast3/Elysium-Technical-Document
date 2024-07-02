@@ -16,3 +16,18 @@ sidebar_position: 2
     - Install dependencies. (cmd: yarn install)
     - Launch the front. (cmd: yarn start)
 </div>
+
+## dependencies:
+
+<div>
+    - typescript
+    - prettier
+    - jest
+    - eslint
+    - babel-jest
+    - redux
+    - library svg
+    - library stripe
+    - axios
+    - async storage
+</div>

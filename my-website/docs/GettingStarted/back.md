@@ -21,3 +21,12 @@ sidebar_position: 1
     - If you want to develop locally: Launch the back. (cmd: yarn run dev)
     - If you want to develop on the server, you will need to push your branch to **develop**.
 </div>
+
+## dependencies:
+
+<div>
+    - node
+    - typescript
+    - nodemon
+    - express
+</div>
